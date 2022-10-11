@@ -18,9 +18,11 @@ const IndexPage = () => {
           A decentralised hedge fund
         </span>
 
-        <div className="ml-1 lg:ml-2 mt-4 text-2xl lg:text-4xl text-egg-white hover:text-white transition underline cursor-pointer w-fit">
-          Go to app
-        </div>
+        <a href="https://app.exegol.fi/">
+          <div className="ml-1 lg:ml-2 mt-4 text-2xl lg:text-4xl text-egg-white hover:text-white transition underline cursor-pointer w-fit">
+            Go to app
+          </div>
+        </a>
       </main>
 
       <span className="fixed bottom-0 right-0 text-white mx-4">
