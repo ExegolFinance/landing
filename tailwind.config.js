@@ -7,7 +7,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        landing: "url('../images/landing.jpg')",
+        landing: "url('../images/landing.webp')",
       },
       fontFamily: {
         sans: ["Avenir"],
